@@ -1,2 +1,5 @@
 pytest
+<<<<<<< HEAD
 # pytest-cov
+=======
+>>>>>>> 036bc1a0bb1f2f3858909c5670d834fd22e4888d
